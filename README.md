@@ -1,7 +1,7 @@
 # ingest-into-Neo4j
 
-### 1. Fetch Data from AWS IAM User and Ingest into Neo4j
-#### Download and Configure AWS CLI: Use the command prompt on Windows to configure the IAM user with AWS CLI.
+## Fetch Data from AWS IAM User and Ingest into Neo4j
+### 1. Download and Configure AWS CLI: Use the command prompt on Windows to configure the IAM user with AWS CLI.
 #### " Command: aws configure --profile rupesh12 "
 #### After configuration, verify if it has been set up correctly.
 
