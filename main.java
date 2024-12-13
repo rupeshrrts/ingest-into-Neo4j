@@ -15,8 +15,8 @@ import org.neo4j.driver.Session;
 
 
 public class Main {
-    private static final String URI = "bolt://localhost:7687";  // Change if you're using a different host/port
-    private static final String USER = "neo4j";                 // Default username
+    private static final String URI = "bolt://localhost:7687";  
+    private static final String USER = "neo4j";                 
     private static final String PASSWORD = "12345678";
 
 
@@ -38,7 +38,6 @@ public class Main {
         StringBuilder sb = new StringBuilder();
         while((line= reader.readLine())!=null){
             sb.append(line);
-//            System.out.println(line);
         }
         line = sb.toString();
         JsonObject jsonObject = JsonParser.parseString(line).getAsJsonObject();
