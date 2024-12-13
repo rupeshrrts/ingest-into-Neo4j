@@ -18,7 +18,8 @@
 ![5](https://github.com/user-attachments/assets/c564f697-51e2-4b2e-82fb-04331875d8b0)
 ### Reflect Changes in the Neo4j Database
 #### After running the program, the unique users will be displayed in the Neo4j database.
-![3](https://github.com/user-attachments/assets/284dd9af-956e-47f2-ab0b-7473df73074e)
+![new](https://github.com/user-attachments/assets/d0b39d53-fbbf-4596-a367-00e93941e7db)
+
 
 
 
